@@ -1,4 +1,5 @@
 root: ./docs
 structure:
+  assets: assets
   readme: Introduction.md
   summary: Summary.md
