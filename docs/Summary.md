@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-- [Init](Chapter1.md)
-- [Configure App](Chapter3.md)
-- [Config Database](Chapter4.md)
-- [Config Redis](Configuration.md)
+- [Chapter1](Chapter1.md)
+- [Chapter2](Chapter3.md)
+- [Chapter3](Chapter4.md)
+- [Configuration](Configuration.md)
 
 
