@@ -1,6 +1,11 @@
-***Before you begin,***
+***Before you begin, This is our First picture*** 
 
 ![](./Assets/montaing.jpg)
+
+***Here you can find the design brand*** 
+
+![](./Assets/design.jpg)
+
 1. Sign in to the **Locusview web app** and go to **Yada**.
 1. You should do so and so.
 1. You should verify so and so.
