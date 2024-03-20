@@ -1,6 +1,5 @@
 ***Before you begin, This is our First picture*** 
 
-![](./Assets/montaing.jpg)
 
 ***Here you can find the design brand*** 
 
