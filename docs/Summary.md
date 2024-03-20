@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-- [Init](init.md)
-- [Configure App](config.md)
-- [Config Database](config-database.md)
-- [Config Redis](config-redis.md)
-- [Config Elastic Search](config-es.md)
+- [Init](Chapter1.md)
+- [Configure App](Chapter3.md)
+- [Config Database](Chapter4.md)
+- [Config Redis](Configuration.md)
+
 
