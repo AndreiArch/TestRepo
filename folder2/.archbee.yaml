@@ -1,7 +1,7 @@
-docsPath: ./docs1
+docsPath: folder2
 structure:
   readme: introduction.md
-  summary: summary.md
+  summary: test.md
   assets: assets
 shadowDocs: 
   - "spark/**.json"
