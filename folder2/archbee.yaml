@@ -1,0 +1,12 @@
+docsPath: ./docs1
+structure:
+  readme: introduction.md
+  summary: summary.md
+  assets: assets
+shadowDocs: 
+  - "spark/**.json"
+  - "daccC/**/*.java"
+  - "docs/aaa/**"
+  - "bau"
+footerTemplate: ""
+headerIncludes: ""
