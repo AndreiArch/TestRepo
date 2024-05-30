@@ -1,4 +1,4 @@
-docsPath: ./Folder
+docsPath:
 structure:
   readme: introduction.md
   summary: summary.md
